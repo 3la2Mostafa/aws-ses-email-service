@@ -45,11 +45,19 @@ AWS_ACCESS_KEY_ID=your-access-key
 AWS_SECRET_ACCESS_KEY=your-secret-key
 PORT=3000
 ```
+
+
+🚀 Run the Project
+```bash
+npm start
+```
+
+
 📚 API Documentation
 Send Email
 Endpoint: POST /email/send
 
-Request Body:
+Request Body: through postman 
 
 ```json
 {
